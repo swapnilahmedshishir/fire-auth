@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 
+#firebaseConfig 
+/.firebaseConfig.js 
 # testing
 /coverage
 
